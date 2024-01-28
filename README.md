@@ -15,4 +15,4 @@ A simple challenge from the Webpage Frontend Mentor using only HTML and CSS. The
 
 Check out the QR Code Component Page:
 
-<a href="https://marciobonatto.github.io/html-css-qr-code-page/"><strong>Click here</strong></a>
+<a href="https://marciobonatto.github.io/html-css-qr-code-page/" target="_blank"><strong>Click here</strong></a>
