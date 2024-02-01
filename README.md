@@ -1,6 +1,6 @@
 # QR Code Component Page
 
-A simple challenge from the Webpage Frontend Mentor using only HTML and CSS. The task involved crafting a page featuring a central card housing a QR Code. When scanned, this QR Code directs users to the Frontend Mentor Website page.
+A simple challenge from the Webpage Frontend Mentor using only HTML and CSS. The task involved developing a page featuring a central card housing a QR Code. When scanned, this QR Code directs users to the Frontend Mentor Website page.
 
 ## The Layout
 
