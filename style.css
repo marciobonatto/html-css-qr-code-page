@@ -8,14 +8,15 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 #qrcode-container {
-  display: grid;
+  display: table;
   height: 100vh;
+  margin:0 auto;
 }
 .qrcode-plus-attribution {
+  display:table-cell;
+  vertical-align: middle;
   width: 320px;
   padding: 27px;
-  justify-self: center;
-  align-self: center;
 }
 .qrcode-card {
   padding:16px;
