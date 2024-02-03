@@ -3,12 +3,21 @@
   margin: 0;
   padding: 0;
   border:0;
-  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+}
+html {
+  display: table;
+  width:100%;
 }
 body {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
   background-color: hsl(212, 45%, 89%);
 }
-#qrcode-container {
+/*#qrcode-container {
   display: table;
   height: 100vh;
   margin:0 auto;
@@ -18,12 +27,17 @@ body {
   vertical-align: middle;
   width: 320px;
   padding: 27px;
+}*/
+.qrcode-plus-attribution {
+  width: 320px;
+  padding: 27px;
+  margin: 0 auto;
 }
 .qrcode-card {
   padding:16px;
   border-radius: 18px;
   background-color: hsl(0, 0%, 100%);
-  text-align: center;
+  /*text-align: center;*/
 }
 .qrcode-card > h1 {
   padding: 22px 12px 8px 12px;
